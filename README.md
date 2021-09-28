@@ -12,8 +12,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<Img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&layout=compact">
+</img>
 
 
 </div>
