@@ -12,7 +12,7 @@
 
 
 
-<Img height ="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&layout=compact">
+
 
 
 
