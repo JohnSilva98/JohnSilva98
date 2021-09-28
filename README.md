@@ -1,7 +1,7 @@
-## Olá tudo bem?
-### Me chamo John
-### Sou um estudante de programação
-### Me formei em Analise e Desenvolvimento de Sistemas
+## Hello!
+### I am Jonathan Silva
+### I am a Programming Student
+### I have finished the Systems Analysis and Development University
 
 
 
