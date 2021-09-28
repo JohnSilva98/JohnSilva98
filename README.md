@@ -12,7 +12,7 @@
 
 </div>
 
-## Contato
+## Contact
 <a href = "https://br.linkedin.com/in/jonathansilva98">
 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" widht="60">
@@ -25,7 +25,7 @@
 </a>
 </div>
 
-## Linguagens
+## Languages
 <div>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="center" height="50" width="50">
 </img>
@@ -37,7 +37,7 @@
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="50" width="50">
 </img>
 
-## Outras Habilidades
+## Other Skills
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="center" height="50" width="50">
 </img>
 
