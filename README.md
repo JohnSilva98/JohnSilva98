@@ -6,14 +6,14 @@
 
 
 <div>
-<!-- testando o github-->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnSilva98&show_icons=true&theme=dark)
 
 
 
-<Img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&layout=compact">
-</img>
+<Img height ="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&layout=compact">
+
 
 
 </div>
