@@ -1,13 +1,58 @@
-- 👋 Hi, I’m @JohnSilva98, i'm from Brazil and I've just finished the Systems Analisys and Development Graduation
-- 👀 I’m interested in improving my programming skills and learn new things about IT
-- 🌱 I’m currently learning C#, Java and Python, sometimes i learn things about Graphics Designer as well
-- 💞️ I’m looking to a new job, where I can use my technical skills and put everything I learned at the university in practice
-- 📫 How to reach me, you can contact me by:
-	1 - Email: jonathan.design16@outlook.com
-	2 - Linkedin: linkedin.com/in/jonathansilva98
-	2 - Telegram: @John_Johnsons
-Thanks for reading! I am waiting for your contact, I hope we can share experiences soon :) 
-<!---
-JohnSilva98/JohnSilva98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Olá tudo bem?
+### Me chamo John
+### Sou um estudante de programação
+### Me formei em Analise e Desenvolvimento de Sistemas
+
+
+
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JohnSilva98&show_icons=true&theme=dark">
+
+<img height="150em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&layout=compact">
+
+</div>
+
+## Contato
+<a href = "https://br.linkedin.com/in/jonathansilva98">
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" widht="60">
+</img>
+</a>
+
+<a href = "https://www.facebook.com/johnjohnsons2">
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" align="center" height="50" widht="60">
+</img>
+</a>
+</div>
+
+## Linguagens
+<div>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="center" height="50" width="50">
+</img>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" align="center" height="50" width="50">
+</img>
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" height="50" width="50">
+</img>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="50" width="50">
+</img>
+
+## Outras Habilidades
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="center" height="50" width="50">
+</img>
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" align="center" height="50" width="50">
+</img>
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" align="center" height="50" width="50">
+</img>
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" align="center" height="50" width="50">
+</img>
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" align="center" height="50" width="50">
+</img>
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" align="center" height="50" width="50">
+</img>
+</div>
