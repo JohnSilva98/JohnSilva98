@@ -11,6 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnSilva98&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&hide=TeX&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://wakatime.com/@018b4d25-74ef-4e6c-89b0-0063768ea9c6"><img src="https://wakatime.com/badge/user/018b4d25-74ef-4e6c-89b0-0063768ea9c6.svg" alt="Total time coded since Oct 20 2023" /></a>
 
