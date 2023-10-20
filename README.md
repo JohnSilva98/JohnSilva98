@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&hide=TeX&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Jonathan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/018b4d25-74ef-4e6c-89b0-0063768ea9c6/project/018b4d27-a01e-44a9-8f1e-2b481b019b29.svg)](https://wakatime.com/badge/user/018b4d25-74ef-4e6c-89b0-0063768ea9c6/project/018b4d27-a01e-44a9-8f1e-2b481b019b29)
+[![wakatime](https://wakatime.com/badge/user/018b4d25-74ef-4e6c-89b0-0063768ea9c6/project/018b4d27-a01e-44a9-8f1e-2b481b019b29.svg)](https://wakatime.com/badge/user/018b4d25-74ef-4e6c-89b0-0063768ea9c6/project/018b4d27-a01e-44a9-8f1e-2b481b019b29&v=2)
 
 
 
