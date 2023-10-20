@@ -36,8 +36,10 @@
 <a href="https://github.com/JohnSilva98/Internet-Banking"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="center" height="50" width="50" color=white>
 </img>
 </a>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" align="center" height="50" width="50" color=white>
-</img>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+          
 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" height="50" width="50">
 </img>
