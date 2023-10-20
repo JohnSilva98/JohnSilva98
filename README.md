@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnSilva98&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&hide=TeX&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p>
