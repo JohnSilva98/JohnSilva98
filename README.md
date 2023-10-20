@@ -38,7 +38,7 @@
 </a>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" align="center" height="50" widht="50" />
           
 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" height="50" width="50">
