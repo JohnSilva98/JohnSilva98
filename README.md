@@ -17,7 +17,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b4d25-74ef-4e6c-89b0-0063768ea9c6.svg)](https://wakatime.com/@018b4d25-74ef-4e6c-89b0-0063768ea9c6)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnSilva98)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
