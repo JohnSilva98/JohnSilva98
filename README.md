@@ -1,17 +1,16 @@
 ## Hello!
-### I am Jonathan Silva, i'm 25 years old
-### I am a Programming Student
-### I've finished the Systems Analysis and Development University in 2021
-### Advanced English level
+- I'm Jonathan Silva, i'm 25 years old
+- I'm studying front-end
+- I've finished the Systems Analysis and Development University in 2021
+
 
 
 
 <div>
-
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnSilva98&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&hide=TeX&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Jonathan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn&v=2)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/JohnSilva98">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JohnSilva98&show_icons=true&theme=dark">        
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&hide=TeX&layout=donut">
+<img height="200cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn&v=2"
 
 
 
