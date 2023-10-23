@@ -13,10 +13,10 @@
   <!--most used languages-->
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&hide=TeX&layout=donut&theme=dark">
 </a>
-  <a href="https://wakatime.com/@SilvaJohn" target="_blank">
+  
     <!--wakatime-->
-<img height="220cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn&v=2&theme=dark">
-  </a>
+[<img height="220cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn&v=2&theme=dark">](https://wakatime.com/@SilvaJohn)
+  
 </div>
 <br>
 
