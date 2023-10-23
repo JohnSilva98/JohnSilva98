@@ -7,14 +7,18 @@
 
 
 <div>
+  <!--git status-->
 <a href="https://github.com/JohnSilva98">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JohnSilva98&show_icons=true&theme=dark">        
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JohnSilva98&show_icons=true&theme=dark">    
+  <!--most used languages-->
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSilva98&hide=TeX&layout=donut">
 </a>
   <a href="https://wakatime.com/@SilvaJohn" target="_blank">
+    <!--wakatime-->
 <img height="220cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn&v=2">
   </a>
 </div>
+<br>
 
 
 
