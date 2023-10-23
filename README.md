@@ -1,6 +1,6 @@
 ## Hello!
 - I'm Jonathan Silva, i'm 25 years old
-- I'm studying front-end
+- I'm studying front-end 
 - I've finished the Systems Analysis and Development University in 2021
 
 
@@ -22,33 +22,51 @@
 <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href = "https://www.facebook.com/johnjohnsons2" target="_blank">
 <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+
 </div>
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+
+  ## Languages Skills
+  <br>
 <!-- img C# -->
-<img align="center" alt="csharp" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<!-- img java -->
-<img align="center" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<!-- img html5 -->
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<!-- img css3 -->
+<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
 <!-- img python -->
-<img align="center" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
+<img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<!-- img js -->
+<img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 </div>
 
-## Other Skills
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="center" height="50" width="50">
-</img>
 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" align="center" height="50" width="50">
-</img>
+<div>
+  
+## Design Skills
+<br>
+<img src = "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" align="center" height="50" width="50">
-</img>
+<img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" align="center" height="50" width="50">
-</img>
+<img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" align="center" height="50" width="50">
-</img>
+<img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+</div>
 
+<div>
+
+## OS Skills
+<!-- macOS-->
+<img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+<!--ubuntu-->
+<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<!--windows-->
+<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+
+  
 </div>
