@@ -32,7 +32,6 @@
 <div style="display: inline_block">
 
   ## Languages Skills
-  <br>
 <!-- img C# -->
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <!-- img html5 -->
@@ -50,7 +49,6 @@
 <div>
   
 ## Design Skills
-<br>
 <img src = "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
 
 <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
