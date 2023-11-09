@@ -15,7 +15,7 @@
 </a>
   <a href = "https://wakatime.com/@SilvaJohn">
     <!--wakatime-->
-<img height="220cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn&v=2&theme=dark">
+<img height="250cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn&v=2&theme=dark">
   </a>
 </div>
 <br>
