@@ -21,7 +21,7 @@
 <br>
 
 
-
+## Social Media
 <div>
 <a  href="mailto:jonathan.design16@outlook.com">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
@@ -35,7 +35,7 @@
 
 <div style="display: inline_block">
 
-  ## Languages Skills
+  ## Language Skills
 <!-- img C# -->
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <!-- img python -->
