@@ -1,7 +1,5 @@
-## Hello!
-- I'm Jonathan Silva, i'm 25 years old
-- I'm studying front-end 
-- I've finished the Systems Analysis and Development University in 2021
+## Hello! Welcome to my GitHub
+
 
 
 
