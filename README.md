@@ -18,7 +18,7 @@
 
   <a href = "https://wakatime.com/@SilvaJohn">
     <!--wakatime-->
-<img height="245cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn&v=2&theme=dark&layout=compact&hide=json,typescript,python,other,bash,reStructuredText,Git,TSConfig">
+<img height="245cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=SilvaJohn&v=2&theme=dark&layout=compact&hide=json,typescript,python,other,react,react-native">
   </a>
 </div>
 <br>
@@ -39,18 +39,28 @@
 <div style="display: inline_block">
 
   ## Language Skills
-<!-- img C# -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <!-- img python -->
 <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <!-- img html5 -->
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <!-- img css3 -->
-<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+<img src = "https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff" >
 <!-- img js -->
 <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 </div>
+
+<div>
+  
+## Framework Skills
+<!-- img react -->
+<img src = "https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
+<!-- img react native -->
+<img src = "https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
+
+  
+</div>
+
 
 
 <div>
