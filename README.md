@@ -57,6 +57,9 @@
 <img src = "https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
 <!-- img react native -->
 <img src = "https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
+<!-- img NexTJS -->
+<img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" >
+
 
   
 </div>
